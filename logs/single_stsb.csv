@@ -1,0 +1,2 @@
+model_type,model_name,task,accuracy,f1,pearson,spearman,train_time,params
+single-slm,distilbert,stsb,,,0.8582074,0.8559185828002951,61.95945191383362,66366725
